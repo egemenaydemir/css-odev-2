@@ -1,0 +1,22 @@
+.tocenter {
+   text-align: center;
+}
+
+.searchbar {
+    background-color:#EEEEEE;
+    margin-left: 20%; margin-right: 20%;
+}
+
+.float {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.margin {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+div {
+    padding: 10px;
+}
